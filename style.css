@@ -1,0 +1,66 @@
+h1{
+	 color: blue;
+	 text-align :center;
+	 background-color: black;
+	 padding: 30px;
+}
+hr{
+	border: 2px solid black;
+}
+h2{
+
+	background-color: blue;
+	width: 100%;
+	text-align: center;
+}
+h3{
+	
+	background-color: blue;	
+	width: 100%;
+	text-align: center;
+}
+form{
+	text-align: center;
+	background-color: yellow;
+	width: 100%;
+}
+
+nav {
+
+	background-color: black;
+	padding: 10px;
+}
+ul{
+ list-style: none;
+}
+
+li{
+	
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color: white;
+}
+li a:hover{
+	color: blue;
+}
+table, th, td {
+  border: 2px solid black;
+  text-align: center;
+
+}
+
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
